@@ -18,9 +18,9 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YasserAet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
-    <td>
+    <td height="360em">
      <p align="center">
-        <img height="500em" src="coding_2.jpg"/>
+        <img height="360em" src="coding_2.jpg"/>
      </p>
     </td>
   </tr>
