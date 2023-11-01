@@ -20,7 +20,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="400em" src="coding_2.jpg"/>
+        <img height="500em" src="coding_2.jpg"/>
      </p>
     </td>
   </tr>
