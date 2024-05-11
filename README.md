@@ -23,6 +23,17 @@ Driven to build and scale innovative applications in immersive and interactive e
  💬 &emsp; Feel free to ask anything [here](https://github.com/YasserAet/YasserAet/issues)
 </p>
 
+
+<!-- Social Badges -->
+<p align="center">
+ <a href="https://yassiraitali.me" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+ </a>
+ <a href="https://www.linkedin.com/in/aitali-yassir/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+</p>
+<br />
 <br/>
 <br/>
 
@@ -73,7 +84,7 @@ Driven to build and scale innovative applications in immersive and interactive e
 ## Featured Projects
 
 <!-- Change the repository URLs to your repositories -->
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YasserAet&repo=OPTI_DASH&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/YasserAet/OPTI_DASH)
+<!-- [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YasserAet&repo=OPTI_DASH&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/YasserAet/OPTI_DASH) -->
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YasserAet&repo=eda&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color7F3FBF)](https://github.com/YasserAet/EDA)
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=YasserAet&repo=school_timetable&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color7F3FBF)](https://github.com/YasserAet/School_Timetable)
 
@@ -108,14 +119,3 @@ Driven to build and scale innovative applications in immersive and interactive e
 </p>
 
 
-
-<!-- Social Badges -->
-<p align="center">
- <a href="https://yassiraitali.me" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
- </a>
- <a href="https://www.linkedin.com/in/aitali-yassir/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-</p>
-<br />
