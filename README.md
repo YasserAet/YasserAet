@@ -1,5 +1,5 @@
 <!-- Wakatime Badge -->
-[![wakatime](https://wakatime.com/badge/user/YasserAet.svg)](https://wakatime.com/@YasserAet)
+[![wakatime](https://wakatime.com/badge/user/482c4152-6ad7-4863-9fa7-8cf9f64859b4.svg)](https://wakatime.com/@482c4152-6ad7-4863-9fa7-8cf9f64859b4)
 
 <!-- Introduction Header -->
 <h3 align="center">
@@ -15,17 +15,6 @@
     <br>
   </samp>
 </p>
-
-<!-- Social Badges -->
-<p align="center">
- <a href="https://yassiraitali.me" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
- </a>
- <a href="https://www.linkedin.com/in/aitali-yassir/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-</p>
-<br />
 
 # About me
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -120,3 +109,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserAet&custom_title=Yasser%20Aet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
 </p>
+
+
+
+<!-- Social Badges -->
+<p align="center">
+ <a href="https://yassiraitali.me" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+ </a>
+ <a href="https://www.linkedin.com/in/aitali-yassir/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+</p>
+<br />
