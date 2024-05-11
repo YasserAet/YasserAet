@@ -1,5 +1,5 @@
 <!-- Wakatime Badge -->
-[![wakatime](https://wakatime.com/badge/user/@YasserAet.svg)](https://wakatime.com/@YasserAet)
+[![wakatime](https://wakatime.com/badge/user/YasserAet.svg)](https://wakatime.com/@YasserAet)
 
 <!-- Introduction Header -->
 <h3 align="center">
