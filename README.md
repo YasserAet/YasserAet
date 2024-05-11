@@ -9,26 +9,22 @@
 </h3>
 
 <p align="center"> 
-  <samp>
     「 A VR developer,computer science engineering student with a focus on full-stack web development and VR technologies, based in <b>Morocco</b> 」
     <br>
     <br>
-  </samp>
 </p>
 
 # About me
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-&emsp; A computer science engineering student passionate about technology, specializing in XR development and 3D modeling. <br/><br/>
-&emsp; Driven to build and scale innovative applications in immersive and interactive environments as I expand my engineering skills. <br/><br/>
+A computer science engineering student passionate about technology, specializing in XR development and 3D modeling. <br/><br/>
+Driven to build and scale innovative applications in immersive and interactive environments as I expand my engineering skills. <br/><br/>
  📧 &emsp; Reach out via email: yasseraitali@outlook.fr<br/><br/>
  💬 &emsp; Feel free to ask anything [here](https://github.com/YasserAet/YasserAet/issues)
 </p>
 
 <br/>
 <br/>
-<br/>
-
 ## Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
