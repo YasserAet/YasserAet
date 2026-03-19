@@ -2,39 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/482c4152-6ad7-4863-9fa7-8cf9f64859b4.svg)](https://wakatime.com/@482c4152-6ad7-4863-9fa7-8cf9f64859b4)
 
 <!-- Introduction Header -->
-<h3 align="center">
-  <samp>&gt; Hello! I am
-    <b><a target="_blank" href="https://github.com/YasserAet">AITALI YASSIR</a></b>
-  </samp>
-</h3>
-
-<p align="center"> 
-    「 A VR developer,computer science engineering student with a focus on full-stack web development and VR technologies, based in <b>Morocco</b> 」
-    <br>
-    <br>
-</p>
-
-# About me
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
-A computer science engineering student passionate about technology,specializing in XR development and 3D modeling. <br/><br/>
-Driven to build and scale innovative applications in immersive and interactive environments as I expand my engineering skills. <br/><br/>
- 📧 &emsp; Reach out via email: yasseraitali@outlook.fr<br/><br/>
-</p>
-
-
-<!-- Social Badges -->
-<p align="center">
- <a href="https://yassiraitali.me" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
- </a>
- <a href="https://www.linkedin.com/in/aitali-yassir/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-</p>
-<br />
-<br/>
-<br/>
+<img width="1440" height="1468" alt="image" src="https://github.com/user-attachments/assets/6d0fca35-230f-49f2-a34d-09fd833e96ed" />
 
 ## Technologies I Use
 
